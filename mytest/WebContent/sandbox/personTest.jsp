@@ -8,7 +8,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>싱글톤 패던 연습</h1>
+	<h1>싱글톤 패던 연습 7890!! abcd</h1>
+	
 	<%
 		//Person p = new Person(); //new로 객체 생성 불가
 		
